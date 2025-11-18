@@ -1,4 +1,4 @@
-Olá meu nome é Matheus Farias, tenho 23 anos, estou estudando na FIAP e começando a aprender a codar em Python, CSS, HTML. 
+Back-End Developer | CSS | JS | REST API | Git | Power BI
 
 <!---
 mathhfarias/mathhfarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
