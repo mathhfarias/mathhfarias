@@ -103,15 +103,14 @@ Desenvolvimento de aplicações web, sistemas CRUD, APIs e soluções acadêmica
 
 ---
 
-## Estatísticas do GitHub
+## Atualmente estudando
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathhfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhfarias&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
+- SQL avançado para análise de dados
+- Power BI, modelagem de dados e DAX
+- Python para Data Science
+- Desenvolvimento de APIs REST
+- Boas práticas de documentação técnica
+- Cloud, deploy e integração de sistemas
 
 ---
 
